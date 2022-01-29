@@ -19,11 +19,19 @@ Lecture Notes - [link](https://drive.google.com/drive/folders/1lAr3hfLwfMGwOEYkB
     - Uniform convergence
     - Bias Complexity tradeoff
     - VC dimension
+    - Model Selection and Validation
+    - Ensemble Learning
+    - Convex Learning
+    - Regularization
 - Algorithms
     - Perceptron
     - Linear Regression
+    - Polynomial Regression
     - Logistic Regression
-
-- theory
+    - Decision Trees
+    - Adaboost
+    - K-Nearest Neighbors
+    - Support Vector Machines
+    - Neural Networks
 
 
